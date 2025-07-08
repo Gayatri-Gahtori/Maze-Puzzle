@@ -1,4 +1,4 @@
-# Maze Puzzle Game in Java
+ # Maze Puzzle Game in Java
 
 This is a simple *maze game built using Java and Swing* (Java's GUI library).  
 You control a red ball and move it through the maze using arrow keys.  
@@ -21,8 +21,15 @@ The goal is to go from the Start ('S') to the End ('E') without hitting the wall
 - Different characters represent different things:
   - S = Start point (yellow)
   - E = End point (green)
-  -# = Walls (gray)
+  - #= Walls (gray)
   - . = Empty path (light gray)
+  
+
+    ![Maze Step 1](Screenshot%202025-07-08%20225719.png)
+    
+    ![Maze Step 2](Screenshot%202025-07-08%20225756.png)
+    
+    ![Maze Step 3](Screenshot%202025-07-08%20225912.png)
 
 -----------------------------------------------------------------------------------------------------------------
 
