@@ -21,7 +21,7 @@ The goal is to go from the Start ('S') to the End ('E') without hitting the wall
 - Different characters represent different things:
   - S = Start point (yellow)
   - E = End point (green)
-  - # = Walls (gray)
+  -# = Walls (gray)
   - . = Empty path (light gray)
 
 -----------------------------------------------------------------------------------------------------------------
