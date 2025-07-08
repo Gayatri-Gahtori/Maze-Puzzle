@@ -25,15 +25,12 @@ The goal is to go from the Start ('S') to the End ('E') without hitting the wall
   - . = Empty path (light gray)
   
 This is the main maze window where the red player starts from the 'S' position.
-
     ![Maze Step 1](Screenshot%202025-07-08%20225719.png)
 
 After navigating through the path, the red ball reaches the 'E' and success popup appears.    
-    
     ![Maze Step 2](Screenshot%202025-07-08%20225756.png)
 
 When there are no possible moves left,a "you are stuck" popup message is shown.    
-    
     ![Maze Step 3](Screenshot%202025-07-08%20225912.png)
 
 -----------------------------------------------------------------------------------------------------------------
